@@ -2,6 +2,7 @@
 
 **RJ-Raweenipha/RJ-Raweenipha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+SKILLS
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>

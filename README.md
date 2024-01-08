@@ -3,7 +3,7 @@
 **RJ-Raweenipha/RJ-Raweenipha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 SKILLS
-<div align="center">
+<div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -14,6 +14,7 @@ SKILLS
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 </div>
 
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
